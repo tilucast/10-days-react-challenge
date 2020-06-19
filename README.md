@@ -12,8 +12,8 @@ Para trocar entre os desafios, no arquivo **src/index.js** :
 ReactDOM.render(<Day9 />, rootElement);
 ````
 
-Troque a tag que está sendo rendezirada, **<Day9 />** , pelo nome da tag do desafio que queira ver.
-Caso queira ver o primeiro desafio, troque por **<App />**.
+Troque a tag que está sendo rendezirada, **Day9** , pelo nome da tag do desafio que queira ver.
+Caso queira ver o primeiro desafio, troque por **App**.
 
 # Instalando e rodando
 
