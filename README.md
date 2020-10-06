@@ -1,23 +1,24 @@
 <h1 align="center"><a href="https://scotch.io/courses">Scotch.io</a> React Challenges</h1>
 
-# Sobre o repositório
+# About this repo
 
-Todos os desafios propostos pelo curso de React feitos pela Scotch.io.
-Consegui realizar todos, exceto o último.
+This repo holds all the react challenges made by Scotch.io on their 10 React Challenges.
+I was able to do all, except for the last one.
 
-Todos os desafios estão dentro da pasta **./src**.
-Para trocar entre os desafios, no arquivo **src/index.js** :
+All the challenges are inside the folder **./src**
+To run the challenges, inside **src/index.js**,
 
-```` 
+````
 ReactDOM.render(<Day9 />, rootElement);
 ````
+Switch **<Day9 />** , which is a component, to the correspondent challenge you want to run.
 
-Troque a tag que está sendo rendezirada, **Day9** , pelo nome da tag do desafio que queira ver.
-Caso queira ver o primeiro desafio, troque por **App**.
 
-# Instalando e rodando
+# Installing and running
 
-React básico sem dependências além do próprio react.
-```` yarn install / npm install ```` para baixar as dependências.
 
-```` yarn start / npm run start ```` para rodar o projeto.
+Basic react project with no other dependencies except the ones that react itself needs.
+
+```` yarn install/ npm i ````
+
+```` yarn start/ npm start ````
