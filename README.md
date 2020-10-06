@@ -2,7 +2,7 @@
 
 # About this repo
 
-This repo holds all the react challenges made by Scotch.io on their 10 React Challenges.
+This repo holds all the react challenges made by Scotch.io on their 10 React Challenges course..
 I was able to do all, except for the last one.
 
 All the challenges are inside the folder **./src**
